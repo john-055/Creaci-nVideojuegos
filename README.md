@@ -35,30 +35,30 @@
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
+  * > <a href="https://github.com/john-055/Desarrollo-Videojuegos/tree/main/Lecci%C3%B3n1">Tutorial 1</a>
   * > Laboratorio
-  * > Desafío
+  * > <a href="https://github.com/john-055/Desarrollo-Videojuegos/tree/main/desafio%201/desafio%201">Desafio 1</a>
   * > Prueba
 * Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
+  * > <a href="">Tutorial 2</a>
+  * > <a href="">Laboratorio</a>
+  * > <a href="">Desafio 2</a>
   * > Prueba
 * Lección 3
-  * > Tutorial
+  * > <a href="https://github.com/john-055/CreacionVideojuegos2/tree/main/Leccion3">Tutorial 3</a>
   * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > <a href="https://github.com/john-055/CreacionVideojuegos2/tree/main/Desafio3">Desafio 3</a>
+  * > <a href="https://github.com/john-055/CreacionVideojuegos2/blob/main/Examenes/Prueba_3.png">Prueba 3</a>
 * Lección 4
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
 * Lección 5
-  * > Tutorial
+  * > <a href="https://github.com/john-055/CreacionVideojuegos2/tree/main/Leccion5">Tutorial 5</a>
   * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > <a href="https://github.com/john-055/CreacionVideojuegos2/tree/main/Desafio5">Desafio 5</a>
+  * > <a href="https://github.com/john-055/CreacionVideojuegos2/blob/main/Examenes/Prueba_5.png">Prueba 5</a>
 * VideoJuego
 
 ## Planificación
