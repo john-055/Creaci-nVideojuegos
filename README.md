@@ -126,7 +126,7 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Jonathan Anselmo Mendez López
+Jonathan Anselmo Mendez López, Juan Carlos Cabello Salas
 
 ## Copyright
 Derechos Reservados 2022
