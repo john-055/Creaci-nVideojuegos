@@ -109,9 +109,9 @@
   * > <a href="https://github.com/john-055/CreacionVideojuegos2/blob/main/Examenes/Prueba_3.png">Prueba 3</a>
 * Lección 4
   * > <a href="https://github.com/john-055/CreacionVideojuegos2/tree/main/Leccion4">Tutorial 4</a> 
-  * > <a href="">Laboratorio 4</a> 
+  * > <a href="https://github.com/john-055/CreacionVideojuegos2/blob/main/Lab%204/Lab%204.unitypackage">Laboratorio 4</a> 
   * > <a href="https://github.com/john-055/CreacionVideojuegos2/tree/main/Desafio4">Desafio 4</a>
-  * > <a href="https://github.com/john-055/CreacionVideojuegos2/blob/main/Examenes/Prueba_4.png">Prueba 4</a>
+  * > <a href="https://github.com/john-055/CreacionVideojuegos2/blob/main/Examenes/Prueba-4.png">Prueba 4</a>
 * Lección 5
   * > <a href="https://github.com/john-055/CreacionVideojuegos2/tree/main/Leccion5">Tutorial 5</a>
   * > <a href="https://github.com/john-055/CreacionVideojuegos2/tree/main/Lab%205">Laboratorio 5</a> 
