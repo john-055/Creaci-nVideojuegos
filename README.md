@@ -41,9 +41,9 @@
     
     <b> Escenario: Nuestro ecenario comienza con una interfaz de inicio, en el cual nuestro jugador podra seleccionar 3 niveles de jugabilidad.</b>
     
-    <p> Nivel 1: El primero de ellos es un ecenerio con un Background de una ciudad y los enemigos tendran una velocidad normal</p>
-    <p> Nivel 2: El segundo de ellos es un ecenerio con un Background de un bosque y los enemigos tendran una velocidad un poco elevada</p>
-    <p> Nivel 3: El tercero de ellos es un ecenerio con un Background de un decierto y los enemigos tendran una velocidad muy elevada y se generaran mas enemigos</p>
+    <p> Nivel 1: El primero de ellos es un escenerio con un Background de una ciudad y los enemigos tendran una velocidad normal</p>
+    <p> Nivel 2: El segundo de ellos es un escenerio con un Background de un bosque y los enemigos tendran una velocidad un poco elevada</p>
+    <p> Nivel 3: El tercero de ellos es un escenerio con un Background de un decierto y los enemigos tendran una velocidad muy elevada y se generaran mas enemigos</p>
 - Historia
 
     <b>Un dia normal se desarrollo una infección la cual convertia a las personas en zombies. Es decir, personas muertas con ganas de comer carne humana. Esta infección ocurrio en la ciudad de New York. 
@@ -94,14 +94,14 @@
 
 * Lección 1
   * > <a href="https://github.com/john-055/Desarrollo-Videojuegos/tree/main/Lecci%C3%B3n1">Tutorial 1</a>
-  * > Laboratorio
+  * > <a href="">Laboratorio 1</a>
   * > <a href="https://github.com/john-055/Desarrollo-Videojuegos/tree/main/desafio%201/desafio%201">Desafio 1</a>
-  * > Prueba
+  * > <a href="https://drive.google.com/drive/folders/18EdaxIhEY7tkoR6iyWscv_lYBlNKQoKo">Prueba 1</a>
 * Lección 2
   * > <a href="">Tutorial 2</a>
-  * > <a href="">Laboratorio</a>
-  * > <a href="">Desafio 2</a>
-  * > Prueba
+  * > <a href="https://github.com/john-055/Desarrollo-Videojuegos/tree/main/Lab%202">Laboratorio</a>
+  * > <a href="https://github.com/john-055/Desarrollo-Videojuegos/tree/main/Desafio2/Desafio2/Desafio2">Desafio 2</a>
+  * > <a href="https://drive.google.com/drive/folders/18EdaxIhEY7tkoR6iyWscv_lYBlNKQoKo">Prueba2</a>
 * Lección 3
   * > <a href="https://github.com/john-055/CreacionVideojuegos2/tree/main/Leccion3">Tutorial 3</a>
   * > Laboratorio
