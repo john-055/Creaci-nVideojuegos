@@ -104,7 +104,7 @@
   * > <a href="https://drive.google.com/drive/folders/18EdaxIhEY7tkoR6iyWscv_lYBlNKQoKo">Prueba2</a>
 * Lección 3
   * > <a href="https://github.com/john-055/CreacionVideojuegos2/tree/main/Leccion3">Tutorial 3</a>
-  * > Laboratorio
+  * > <a href="https://github.com/john-055/CreacionVideojuegos2/blob/main/Lab%203/Lab%203.unitypackage">Laboratorio 3</a>
   * > <a href="https://github.com/john-055/CreacionVideojuegos2/tree/main/Desafio3">Desafio 3</a>
   * > <a href="https://github.com/john-055/CreacionVideojuegos2/blob/main/Examenes/Prueba_3.png">Prueba 3</a>
 * Lección 4
